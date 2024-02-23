@@ -2,6 +2,7 @@
 <h3 align="center"> ☘️ 소개 (Introduction) ☘️</h2>
 <div align="center">프로필 꾸미는 중입니다</div>
 <br>
+<div align="center">. . .</div>
 <h3 align="center"> 📚 기술스택 (Tech Stack) 📚</h3>
 <div align="center">
         <img src="https://img.shields.io/badge/Java-EF8607?style=flat-square&logo=Java&logoColor=white"/>
@@ -18,6 +19,7 @@
         <img src="https://img.shields.io/badge/Notion-555559?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 <br>
+<div align="center">. . .</div>
 <h3 align="center"> 🎖️ 활동 및 수상실적 (Activities & Awards) 🎖️ </h3>
 
 
