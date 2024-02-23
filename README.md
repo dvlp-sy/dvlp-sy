@@ -1,5 +1,4 @@
 <h2 align="center"> 안녕하세요, 변시윤입니다 </h2>
-ㅤ
 
 <h3 align="center"> 소개 (Introduction) </h2>
 <div align="center">프로필 꾸미는 중입니다</div>
