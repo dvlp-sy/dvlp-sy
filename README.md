@@ -5,11 +5,9 @@
 >
 > 이름 : 변시윤<br>
 > 직책 : 학부생 / 백엔드 개발자<br>
-> 학력 : 경희대학교 컴퓨터공학부 컴퓨터공학과 졸업 | GPA 4.31 / 4.5<br>
 >
 > ——<br>
 > **Contact**<br>
 > email : sy8389b@gmail.com<br>
-> github : https://github.com/dvlp-sy<br>
 > ____<br>
 > 
